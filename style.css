@@ -30,7 +30,6 @@ body {
 .container-one {
     background-color: silver;
     justify-content: center;
-    padding: 20px;
     gap: 5px;
 }
 
